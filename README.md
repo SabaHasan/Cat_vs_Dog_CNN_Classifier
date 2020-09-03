@@ -1,8 +1,8 @@
-## Convolution Neural Network(CNN) Classifier - Cats and Dogs
+## Convolution Neural Network (CNN) Classifier - Cats and Dogs
 
 Convolution Neural Network(CNN) Classifier for classifying dog and cat images. The neural network has been trained on 25,000 different images of cats and dogs.
 
-## Dependencies
+### Dependencies
 
 * Jupyter notebook  
 * Python 3.7  
